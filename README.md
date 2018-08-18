@@ -8,4 +8,4 @@
 - [X] Building Your Game
 - [X] Create a Tilemap Grid
 - [X] It's a Trap!
-- [ ] The End Goal
+- [X] The End Goal
