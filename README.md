@@ -5,7 +5,7 @@
 ### https://www.raywenderlich.com/23-introduction-to-the-new-unity-2d-tilemap-system
 
 - [X] Getting Started
-- [ ] Building Your Game
+- [X] Building Your Game
 - [ ] Create a Tilemap Grid
 - [ ] It's a Trap!
 - [ ] The End Goal
