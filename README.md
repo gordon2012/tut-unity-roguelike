@@ -6,6 +6,6 @@
 
 - [X] Getting Started
 - [X] Building Your Game
-- [ ] Create a Tilemap Grid
+- [X] Create a Tilemap Grid
 - [ ] It's a Trap!
 - [ ] The End Goal
